@@ -7,7 +7,7 @@ Projeto 2 do Ignite da RocketSeat, nesse projeto foi usado  :
 
 ## Stack utilizada
 
-**Front-end:** Html, css( StyledComponents ) e Javascript ( TypeScript)
+**Front-end:** Html, css( StyledComponents ) e Javascript ( React com TypeScript)
 
 
 
